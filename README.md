@@ -1,2 +1,3 @@
-# mesh
+# Mesh Library
+
 C++ Mesh Library
